@@ -1,9 +1,6 @@
 # Função que exibe uma mensagem de boas-vindas inicial ao usuário
 def tela_bem_vindo():
-    """
-    Exibe uma mensagem inicial de boas-vindas.
-    Informa os recursos principais do sistema e orienta o usuário no uso do menu.
-    """
+
     print("=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=")
     print("          Bem-vindo ao Sistema de Ordens")
     print("             de Serviço e Dispositivos")
